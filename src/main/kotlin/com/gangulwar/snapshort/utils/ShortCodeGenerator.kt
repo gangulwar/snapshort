@@ -1,4 +1,4 @@
-package com.gangulwar.utils
+package com.gangulwar.snapshort.utils
 
 import java.util.UUID
 

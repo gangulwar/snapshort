@@ -1,4 +1,4 @@
-package com.gangulwar.data.database
+package com.gangulwar.snapshort.data.database
 
 import com.mongodb.client.MongoClients
 import com.mongodb.client.MongoDatabase

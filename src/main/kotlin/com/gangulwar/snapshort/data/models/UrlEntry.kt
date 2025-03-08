@@ -1,11 +1,8 @@
-package com.gangulwar.data.models
+package com.gangulwar.snapshort.data.models
 
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
-import kotlinx.serialization.encodeToString
-import kotlinx.serialization.decodeFromString
 import org.bson.Document
-import org.bson.types.ObjectId
 import java.time.Instant
 
 @Serializable

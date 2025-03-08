@@ -1,8 +1,8 @@
-package com.gangulwar.domain.services
+package com.gangulwar.snapshort.domain.services
 
-import com.gangulwar.data.database.Database
-import com.gangulwar.data.models.UrlEntry
-import com.gangulwar.utils.ShortCodeGenerator
+import com.gangulwar.snapshort.data.database.Database
+import com.gangulwar.snapshort.data.models.UrlEntry
+import com.gangulwar.snapshort.utils.ShortCodeGenerator
 import com.mongodb.client.model.Filters
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
